@@ -2,11 +2,14 @@
 
 Welcome to the documentation site for the City as a Layer research project.
 
-## Overview
-This site documents the research trajectory and archives key papers related to understanding urban environments as interconnected layers of information and infrastructure.
+## Research Focus
+This research supports municipalities in making knowledge made public through participatory processes an asset for future urban policies. We design an atlas of guidelines, procedures, best practices, and training modules that enhance the ability to collect, maintain visibility, and make accessible the legacy of participatory processes on urban transformation.
+
+## Core Question
+**How can design support municipalities in framing the legacy of participatory processes on urban transformation and make it impactful on different levels: urban, social, cultural, and environmental?**
 
 ## Quick Links
-- [Research Papers](../papers/)
-- [Publications](./publications/)
-- [Blog Posts](../blog/)
-- [About](./about.md)
+- [About the Research](./about.md) - Full research details
+- [Research Papers](../papers/) - Academic references and archive
+- [Blog Posts](../blog/) - Research updates and reflections
+- [Guidelines & Resources](./guidelines.md) - Practical outputs and frameworks
