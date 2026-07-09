@@ -1,0 +1,23 @@
+{
+  "name": "cityasalayer",
+  "version": "1.0.0",
+  "description": "PhD Research Trajectory - City as a Layer",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 8000",
+    "build": "echo \"Build script to be configured\"",
+    "serve": "python -m http.server 8000"
+  },
+  "keywords": [
+    "urban",
+    "research",
+    "architecture",
+    "documentation"
+  ],
+  "author": "tpedretti2026",
+  "license": "CC-BY-4.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tpedretti2026/cityasalayer"
+  }
+}
